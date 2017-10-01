@@ -1,0 +1,7 @@
+#Wed Jul 26 13:25:34 CST 2017
+base.0=E\:\\AndroidHome\\frag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fca2964b9241c9a6b2d7fd3c7ba453cb64730b94
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidHome\\frag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8170725a7aeacecc2970a759a89c079724083b9e\\classes.dex
+base.1=E\:\\AndroidHome\\frag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8170725a7aeacecc2970a759a89c079724083b9e
+file.0=E\:\\AndroidHome\\frag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fca2964b9241c9a6b2d7fd3c7ba453cb64730b94\\classes.dex

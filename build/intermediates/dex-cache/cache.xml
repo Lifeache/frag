@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\c6da253781a466a12f325813ebce101f88556467\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2ec801450aee518983a159105ea6b5db1da64b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_6611b918d95e6f0006fad0f21ed0fbb15d7ad79d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidHome\frag\app\libs\dom4j-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\dom4j-1.6.1_96fb45640f0f0661f297207b2231f5857045a0e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\adfd7ecbf42eb529c10b4fe9e656f32957af6f8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c41059cc6cd54489292bffb82fd426cd2218fec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidHome\frag\app\libs\dom4j-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\2\dom4j-1.6.1_96fb45640f0f0661f297207b2231f5857045a0e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\8f8709f46a63f5121e402539dae8df04cd14edb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0d7459a5d9423e99fd61884eee8ad0e6621a380\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\annotations-13.0_6611b918d95e6f0006fad0f21ed0fbb15d7ad79d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\8f8709f46a63f5121e402539dae8df04cd14edb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\classes_c0d7459a5d9423e99fd61884eee8ad0e6621a380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\6dc84741242ad859b6dffe9bfbe9fed57e14fa97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\classes_8d81857e7a12da87789b921de239f36453fa0c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.3-2\3fe54c7558c903868351ac79b792d152bca958f2\kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.3-2_13e944b0581d9a2eee397893a641b6d6b87ac1b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\6dc84741242ad859b6dffe9bfbe9fed57e14fa97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d81857e7a12da87789b921de239f36453fa0c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.3-2\3fe54c7558c903868351ac79b792d152bca958f2\kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.1.3-2_13e944b0581d9a2eee397893a641b6d6b87ac1b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\adfd7ecbf42eb529c10b4fe9e656f32957af6f8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\classes_c41059cc6cd54489292bffb82fd426cd2218fec7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidHome\frag\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c0bb12af32f2d31b4f366219a585931755c1b76">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fca2964b9241c9a6b2d7fd3c7ba453cb64730b94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidHome\frag\app\libs\jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.2_1170b74cb79eafde570b1b3b6ba2af60adf7aaa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidHome\frag\app\libs\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_1170b74cb79eafde570b1b3b6ba2af60adf7aaa5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidHome\frag\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8170725a7aeacecc2970a759a89c079724083b9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.3-2\9b44c139a4ec57031e0c84ba0e49ba16df6d801c\kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.3-2_ed3c13b0943ec57b5bf91a62c875b644b7bf11c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.3-2\9b44c139a4ec57031e0c84ba0e49ba16df6d801c\kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.3-2_ed3c13b0943ec57b5bf91a62c875b644b7bf11c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\dbc752a73cd39d70c98d4266c4e2e3d0244d51f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\classes_abb143718ee77bb157690960bb99b6838757f8d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\dbc752a73cd39d70c98d4266c4e2e3d0244d51f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abb143718ee77bb157690960bb99b6838757f8d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\c89c773c52476927e12b1c8841ef7d842a9cee4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\classes_d71890dae48e56f9ba16902720568cb5a5e1a3ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_0a45368706923972cc5e070710cfee357db11c66\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\c6da253781a466a12f325813ebce101f88556467\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\classes_e2ec801450aee518983a159105ea6b5db1da64b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_0a45368706923972cc5e070710cfee357db11c66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20160403KS\.android\build-cache\c89c773c52476927e12b1c8841ef7d842a9cee4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\AndroidHome\frag\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d71890dae48e56f9ba16902720568cb5a5e1a3ae\classes.dex" />
+    </item>
+
+</items>

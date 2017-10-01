@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+
+	<EditText
+		android:layout_height="480dp"
+		android:ems="10"
+		android:layout_width="match_parent"
+		android:id="@+id/edit3"
+		android:hint="来呀！来写我呀！"
+		android:gravity="top"/>
+
+	<LinearLayout
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:orientation="horizontal">
+
+		<Button
+			android:layout_height="match_parent"
+			style="?android:attr/buttonStyleSmall"
+			android:text="读取资源"
+			android:layout_width="wrap_content"
+			android:id="@+id/button3"
+			android:layout_weight="1.0"/>
+
+		<Button
+			android:layout_height="match_parent"
+			style="?android:attr/buttonStyleSmall"
+			android:text="测试"
+			android:layout_width="wrap_content"
+			android:layout_weight="1.0"
+			android:id="@+id/testButton"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+
